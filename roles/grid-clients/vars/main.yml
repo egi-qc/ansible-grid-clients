@@ -18,4 +18,3 @@ pkg_list:
   - myproxy
   - srm-ifce
   - voms-clients-cpp
-  - voms-clients-java
