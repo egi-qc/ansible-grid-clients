@@ -2,4 +2,5 @@
   package:
     name: {{ item }}
     state: latest
-  with_items: "{{ pkg_list }}"
+  with_items:
+    - "{{ pkg_list }}"
