@@ -17,4 +17,3 @@ pkg_list:
   - gfalFS
   - myproxy
   - srm-ifce
-  - voms-clients-cpp
